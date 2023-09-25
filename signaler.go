@@ -1,4 +1,4 @@
-package signaler
+package usignaler
 
 import (
 	"context"
